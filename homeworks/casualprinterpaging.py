@@ -16,6 +16,8 @@ def main():
         print("ismeretlen input..")
     except KeyboardInterrupt:
         print("I'm heading out")
+    except KeyError:
+        print("Invalid input")
     except:
         print("engedd el...")
 
