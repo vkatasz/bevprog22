@@ -10,7 +10,7 @@ def main():
     elif age>=12:
         print("You can watch Shrek 2, but you can't have a driving licence nor drink alcohol, nor get a driving licence, nor buy tobacco product in Hungary")
     else:
-        print("You are too young, so get an icecream, and have a wonderful day :)")
+        print("You are too young, so go get an icecream, and have a wonderful day :)")
 
 if __name__=="__main__":
     main()
